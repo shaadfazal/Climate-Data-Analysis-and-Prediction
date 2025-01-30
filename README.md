@@ -11,12 +11,10 @@ The dataset is available on the Kaggle website:
 - **Exploratory Data Analysis (EDA):** Understanding climate patterns and trends.
 - **Data Preprocessing:** Handling missing values, outliers, normalization, and encoding categorical features.
 - **Machine Learning Models:**
-  - XGBoost
-  - Random Forest Regressor
-  - Decision Tree Regressor
-  - Support Vector Regression (SVR)
-  - Linear Regression
-  - Voting Regressor (ensemble model)
+  - XGBoost (Ensemble learning model)
+  - ARIMA
+  - LSTM
+
 - **Model Evaluation:** RMSE, MAE, and R² score calculations.
 - **SHAP Analysis:** Understanding model predictions and feature importance.
 - **Spatial Analysis:** Visualizing and analyzing geographical weather patterns.
